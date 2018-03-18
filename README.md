@@ -19,6 +19,7 @@ Cotabox | https://www.cotabox.com.br | Vue, Vuex, Vue Apollo, Nuxt, NodeJS, Grap
 Dataview | http://www.dataview.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/TO
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
+Doctor Engage | https://doctorengage.com | Vue, Laravel, Axios, AWS, Angular, Docker, MongoDB | São Paulo
 Dito | http://dito.com.br | Vue, Ruby, NodeJS, Mongo, Angular 1.x | Belo Horizonte/MG
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 EBANX | https://ebanx.com | Vue, VueRouter, VueMC, Ruby on Rails, Docker | Curitiba/PR
